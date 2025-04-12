@@ -1,0 +1,7 @@
+1.  https://leetcode.com/problems/simplify-path/submissions/
+
+2. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/
+
+3. https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/
+
+4.  https://leetcode.com/problems/linked-list-cycle/submissions/1604302120/
